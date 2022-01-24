@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Doctoral Thesis blog of Kumar Manas"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This blog post will act like a tracker for thesis work, which is supervised by Dr. Stefan Zwicklebauer
